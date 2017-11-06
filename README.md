@@ -6,15 +6,20 @@ A collection of write-ups on things I learn day to day across a variety
 of languages and technologies. I tried blogging, but having a git
 repository makes more sense for me.
 
-_1 TILs and counting..._
+_2 TILs and counting..._
 
 ### Categories
 
 * [Email](#email)
+* [Python](#python)
 
 ### Email
 
 - [How to properly secure email](email/how-to-properly-secure-emails.md)
+
+### Python
+
+- [Reverse string](python/reverse-string.md)
 
 ## About
 
