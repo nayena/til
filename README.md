@@ -6,7 +6,7 @@ A collection of write-ups on things I learn day to day across a variety
 of languages and technologies. I tried blogging, but having a git
 repository makes more sense for me.
 
-_2 TILs and counting..._
+_3 TILs and counting..._
 
 ### Categories
 
@@ -16,6 +16,10 @@ _2 TILs and counting..._
 ### Email
 
 - [How to properly secure email](email/how-to-properly-secure-emails.md)
+
+### Linux
+
+* [1/5/15 Load Avg explained](linux/load-avg-explained.md)
 
 ### Python
 
