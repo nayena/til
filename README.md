@@ -11,6 +11,7 @@ _3 TILs and counting..._
 ### Categories
 
 * [Email](#email)
+* [Linux](#linux)
 * [Python](#python)
 
 ### Email
