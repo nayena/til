@@ -13,9 +13,9 @@ more than this:
 
 ```
 [includeIf "gitdir:~/"]
-	path = .gitconfig-priv
+  path = .gitconfig-priv
 [includeIf "gitdir:~/src/work/"]
-	path = .gitconfig-work
+  path = .gitconfig-work
 ```
 
 This simply includes my personal profile, with all aliases and other goodies.
@@ -27,8 +27,8 @@ In my `.gitconfig-work`, I simply include this piece:
 
 ```
 [user]
-	email = <work email>
-	name = <work name>
+  email = <work email>
+  name = <work name>
   signingkey = <gpgkey>
 ```
 
